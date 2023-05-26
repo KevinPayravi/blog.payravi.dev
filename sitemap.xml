@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://blog.payravi.dev/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://blog.payravi.dev/</loc>
+</url>
+<url>
+<loc>https://blog.payravi.dev/2015-in-review/</loc>
+<lastmod>2023-05-26T00:06:00-05:00</lastmod>
+<image:image>
+<image:loc>https://blog.payravi.dev/media/posts/6/640px-WikiConference_USA_2015_Group_Photo_32.JPG</image:loc>
+<image:title><![CDATA[WikiConference USA 2015 group photo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.payravi.dev/media/posts/6/buckeye-blackout.png</image:loc>
+<image:title><![CDATA[The Buckeyes playing with their black jerseys against Penn State.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.payravi.dev/media/posts/6/pittsburgh-overview.png</image:loc>
+<image:title><![CDATA[A view of Pittsburgh from the top of the Dusquene Incline.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://blog.payravi.dev/automatically-backup-your-linux-servers-valheim-world-to-the-cloud/</loc>
+<lastmod>2023-05-26T01:45:37-05:00</lastmod>
+</url>
+<url>
+<loc>https://blog.payravi.dev/hackcon-iv-my-hackathon-conference-experience/</loc>
+<lastmod>2023-05-26T00:03:46-05:00</lastmod>
+<image:image>
+<image:loc>https://blog.payravi.dev/media/posts/7/hackcon-4-logo.png</image:loc>
+<image:title><![CDATA[Hackcon 4 Logo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.payravi.dev/media/posts/7/ymca-of-the-rockies.jpg</image:loc>
+<image:title><![CDATA[YMCA of the Rockies]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.payravi.dev/media/posts/7/hackcon-4-participants.jpg</image:loc>
+<image:title><![CDATA[A large auditorium with around 200 people in it, with more people walking into the room to find seats.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.payravi.dev/media/posts/7/hackcon-4-winnie-and-me.jpg</image:loc>
+<image:title><![CDATA[Winnie and I representing OHI/O at Hackcon IV.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.payravi.dev/media/posts/7/hackcon-4-group-pic.jpg</image:loc>
+<image:title><![CDATA[Some of the OHI/O team at Hackcon IV.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://blog.payravi.dev/installing-chrome-within-the-program-files-folder/</loc>
+<lastmod>2023-05-26T00:15:58-05:00</lastmod>
+</url>
+<url>
+<loc>https://blog.payravi.dev/my-hyland-internship/</loc>
+<lastmod>2023-05-26T00:24:24-05:00</lastmod>
+</url>
+<url>
+<loc>https://blog.payravi.dev/my-sundance-2020-experience/</loc>
+<lastmod>2023-05-26T00:08:38-05:00</lastmod>
+<image:image>
+<image:loc>https://blog.payravi.dev/media/posts/9/sundance-q-and-a.jpg</image:loc>
+<image:title><![CDATA[A movie theater screen, with several production members standing in front of the screen talking.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.payravi.dev/media/posts/9/little-dell-reservoir.jpg</image:loc>
+<image:title><![CDATA[A view of the Little Del Reservoir, showing a lake surrounding by large hills]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://blog.payravi.dev/page/2/</loc>
+</url>
+<url>
+<loc>https://blog.payravi.dev/the-buckeye-edit-a-thon/</loc>
+<lastmod>2023-05-26T00:14:57-05:00</lastmod>
+<image:image>
+<image:loc>https://blog.payravi.dev/media/posts/5/640px-Wikipedia_Connection_-_Buckeye_Edit-A-Thon_2015.jpg</image:loc>
+<image:title><![CDATA[A library meeting room with several participants sitting with their laptops, editing Wikipedia articles.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://blog.payravi.dev/the-start-of-wikipedia-connection/</loc>
+<lastmod>2023-05-25T23:23:19-05:00</lastmod>
+<image:image>
+<image:loc>https://blog.payravi.dev/media/posts/4/350px-Wikipedia_Connection_%28Ohio_State%29_logo.svg.png</image:loc>
+<image:title><![CDATA[Wikipedia Connection's logo.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://blog.payravi.dev/wikipedia-connection-year-in-review/</loc>
+<lastmod>2023-05-26T00:13:07-05:00</lastmod>
+</url>
+<url>
+<loc>https://blog.payravi.dev/windows-10-education-edition-removing-the-watermark/</loc>
+<lastmod>2023-05-26T00:15:47-05:00</lastmod>
+<image:image>
+<image:loc>https://blog.payravi.dev/media/posts/1/windows-10-education-watermark.png</image:loc>
+<image:title><![CDATA[Windows 10 Education watermark]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.payravi.dev/media/posts/1/basebrd-hexedit-before.png</image:loc>
+<image:title><![CDATA[basebrd HexEdit before]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.payravi.dev/media/posts/1/basebrd-hexedit-after.png</image:loc>
+<image:title><![CDATA[basebrd HexEdit after]]></image:title>
+</image:image>
+</url>
+</urlset>
