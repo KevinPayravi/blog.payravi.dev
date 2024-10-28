@@ -20,8 +20,8 @@
             },
             "tags": [
             ],
-            "date_published": "2023-07-21T00:19:46-05:00",
-            "date_modified": "2023-07-21T17:03:13-05:00"
+            "date_published": "2023-07-20T22:19:46-07:00",
+            "date_modified": "2023-07-21T15:03:13-07:00"
         },
         {
             "id": "https://blog.payravi.dev/automatically-backup-your-linux-servers-valheim-world-to-the-cloud/",
@@ -37,8 +37,8 @@
                    "valheim",
                    "backup"
             ],
-            "date_published": "2021-03-06T08:35:00-06:00",
-            "date_modified": "2023-05-26T01:45:37-05:00"
+            "date_published": "2021-03-06T06:35:00-08:00",
+            "date_modified": "2023-05-25T23:45:37-07:00"
         },
         {
             "id": "https://blog.payravi.dev/my-sundance-2020-experience/",
@@ -51,8 +51,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-02-06T14:00:00-06:00",
-            "date_modified": "2023-05-26T00:08:38-05:00"
+            "date_published": "2020-02-06T12:00:00-08:00",
+            "date_modified": "2023-05-25T22:08:38-07:00"
         },
         {
             "id": "https://blog.payravi.dev/wikipedia-connection-year-review/",
@@ -66,8 +66,8 @@
             "tags": [
                    "wikimedia"
             ],
-            "date_published": "2016-08-09T04:50:40-05:00",
-            "date_modified": "2023-06-05T01:47:40-05:00"
+            "date_published": "2016-08-09T02:50:40-07:00",
+            "date_modified": "2023-06-04T23:47:40-07:00"
         },
         {
             "id": "https://blog.payravi.dev/hackcon-iv-hackathon-conference-experience/",
@@ -80,8 +80,8 @@
             },
             "tags": [
             ],
-            "date_published": "2016-06-29T05:02:11-05:00",
-            "date_modified": "2023-05-26T09:41:52-05:00"
+            "date_published": "2016-06-29T03:02:11-07:00",
+            "date_modified": "2023-05-26T07:41:52-07:00"
         },
         {
             "id": "https://blog.payravi.dev/2015-in-review/",
@@ -96,8 +96,8 @@
                    "wikimedia",
                    "ohi/o"
             ],
-            "date_published": "2016-01-09T02:56:34-06:00",
-            "date_modified": "2023-05-26T00:06:00-05:00"
+            "date_published": "2016-01-09T00:56:34-08:00",
+            "date_modified": "2023-05-25T22:06:00-07:00"
         },
         {
             "id": "https://blog.payravi.dev/the-buckeye-edit-a-thon/",
@@ -111,8 +111,8 @@
             "tags": [
                    "wikimedia"
             ],
-            "date_published": "2015-10-11T15:22:55-05:00",
-            "date_modified": "2023-05-26T00:14:57-05:00"
+            "date_published": "2015-10-11T13:22:55-07:00",
+            "date_modified": "2023-05-25T22:14:57-07:00"
         },
         {
             "id": "https://blog.payravi.dev/the-start-of-wikipedia-connection/",
@@ -126,8 +126,8 @@
             "tags": [
                    "wikimedia"
             ],
-            "date_published": "2015-09-13T03:39:06-05:00",
-            "date_modified": "2023-05-25T23:23:19-05:00"
+            "date_published": "2015-09-13T01:39:06-07:00",
+            "date_modified": "2023-05-25T21:23:19-07:00"
         },
         {
             "id": "https://blog.payravi.dev/my-hyland-internship/",
@@ -140,8 +140,8 @@
             },
             "tags": [
             ],
-            "date_published": "2015-08-28T22:16:31-05:00",
-            "date_modified": "2023-05-26T00:24:24-05:00"
+            "date_published": "2015-08-28T20:16:31-07:00",
+            "date_modified": "2023-05-25T22:24:24-07:00"
         },
         {
             "id": "https://blog.payravi.dev/installing-chrome-within-the-program-files-folder/",
@@ -154,8 +154,8 @@
             },
             "tags": [
             ],
-            "date_published": "2015-07-31T04:32:28-05:00",
-            "date_modified": "2023-05-26T00:15:58-05:00"
+            "date_published": "2015-07-31T02:32:28-07:00",
+            "date_modified": "2023-05-25T22:15:58-07:00"
         }
     ]
 }
