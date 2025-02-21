@@ -20,8 +20,8 @@
             },
             "tags": [
             ],
-            "date_published": "2023-07-20T22:19:46-07:00",
-            "date_modified": "2023-07-21T15:03:13-07:00"
+            "date_published": "2023-07-21T01:19:46-04:00",
+            "date_modified": "2023-07-21T18:03:13-04:00"
         },
         {
             "id": "https://blog.payravi.dev/automatically-backup-your-linux-servers-valheim-world-to-the-cloud/",
@@ -33,12 +33,9 @@
                 "name": "Kevin Payravi"
             },
             "tags": [
-                   "world",
-                   "valheim",
-                   "backup"
             ],
-            "date_published": "2021-03-06T06:35:00-08:00",
-            "date_modified": "2023-05-25T23:45:37-07:00"
+            "date_published": "2021-03-06T09:35:00-05:00",
+            "date_modified": "2023-05-26T02:45:37-04:00"
         },
         {
             "id": "https://blog.payravi.dev/my-sundance-2020-experience/",
@@ -51,8 +48,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-02-06T12:00:00-08:00",
-            "date_modified": "2023-05-25T22:08:38-07:00"
+            "date_published": "2020-02-06T15:00:00-05:00",
+            "date_modified": "2023-05-26T01:08:38-04:00"
         },
         {
             "id": "https://blog.payravi.dev/wikipedia-connection-year-review/",
@@ -64,10 +61,9 @@
                 "name": "Kevin Payravi"
             },
             "tags": [
-                   "wikimedia"
             ],
-            "date_published": "2016-08-09T02:50:40-07:00",
-            "date_modified": "2023-06-04T23:47:40-07:00"
+            "date_published": "2016-08-09T05:50:40-04:00",
+            "date_modified": "2023-06-05T02:47:40-04:00"
         },
         {
             "id": "https://blog.payravi.dev/hackcon-iv-hackathon-conference-experience/",
@@ -80,8 +76,8 @@
             },
             "tags": [
             ],
-            "date_published": "2016-06-29T03:02:11-07:00",
-            "date_modified": "2023-05-26T07:41:52-07:00"
+            "date_published": "2016-06-29T06:02:11-04:00",
+            "date_modified": "2023-05-26T10:41:52-04:00"
         },
         {
             "id": "https://blog.payravi.dev/2015-in-review/",
@@ -93,11 +89,9 @@
                 "name": "Kevin Payravi"
             },
             "tags": [
-                   "wikimedia",
-                   "ohi/o"
             ],
-            "date_published": "2016-01-09T00:56:34-08:00",
-            "date_modified": "2023-05-25T22:06:00-07:00"
+            "date_published": "2016-01-09T03:56:34-05:00",
+            "date_modified": "2023-05-26T01:06:00-04:00"
         },
         {
             "id": "https://blog.payravi.dev/the-buckeye-edit-a-thon/",
@@ -109,10 +103,9 @@
                 "name": "Kevin Payravi"
             },
             "tags": [
-                   "wikimedia"
             ],
-            "date_published": "2015-10-11T13:22:55-07:00",
-            "date_modified": "2023-05-25T22:14:57-07:00"
+            "date_published": "2015-10-11T16:22:55-04:00",
+            "date_modified": "2023-05-26T01:14:57-04:00"
         },
         {
             "id": "https://blog.payravi.dev/the-start-of-wikipedia-connection/",
@@ -124,10 +117,9 @@
                 "name": "Kevin Payravi"
             },
             "tags": [
-                   "wikimedia"
             ],
-            "date_published": "2015-09-13T01:39:06-07:00",
-            "date_modified": "2023-05-25T21:23:19-07:00"
+            "date_published": "2015-09-13T04:39:06-04:00",
+            "date_modified": "2023-05-26T00:23:19-04:00"
         },
         {
             "id": "https://blog.payravi.dev/my-hyland-internship/",
@@ -140,8 +132,8 @@
             },
             "tags": [
             ],
-            "date_published": "2015-08-28T20:16:31-07:00",
-            "date_modified": "2023-05-25T22:24:24-07:00"
+            "date_published": "2015-08-28T23:16:31-04:00",
+            "date_modified": "2023-05-26T01:24:24-04:00"
         },
         {
             "id": "https://blog.payravi.dev/installing-chrome-within-the-program-files-folder/",
@@ -154,8 +146,8 @@
             },
             "tags": [
             ],
-            "date_published": "2015-07-31T02:32:28-07:00",
-            "date_modified": "2023-05-25T22:15:58-07:00"
+            "date_published": "2015-07-31T05:32:28-04:00",
+            "date_modified": "2023-05-26T01:15:58-04:00"
         }
     ]
 }
